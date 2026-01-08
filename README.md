@@ -93,7 +93,7 @@ Dari perspektif pengambilan keputusan bisnis, proyek ini menunjukkan bahwa:
 Seluruh proses komputasi (EDA, Modeling, dan Optimasi) dikerjakan menggunakan Python dan dapat dijalankan ulang melalui Google Colab pada tautan berikut:
 
 🔗 **Google Colab Notebook**:  
-[https://link-google-colab-anda-di-sini]
+(https://colab.research.google.com/drive/10_2EuJIR9yGFUlBDFUKlLs5qAZaek471?usp=sharing)]
 
 ---
 
@@ -101,3 +101,4 @@ Seluruh proses komputasi (EDA, Modeling, dan Optimasi) dikerjakan menggunakan Py
 Pendekatan Data-Driven dan Metaheuristik yang diterapkan dalam proyek ini membuktikan bahwa transformasi digital dalam pengelolaan proses fermentasi bioetanol sangat memungkinkan dan memberikan manfaat nyata bagi industri bioenergi.
 ### Correlation Matrix Variabel Proses
 ![Correlation Matrix](download.png)
+![Correlation Matrix](download(1).png)
