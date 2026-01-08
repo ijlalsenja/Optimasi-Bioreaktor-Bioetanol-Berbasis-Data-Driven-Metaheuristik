@@ -101,5 +101,4 @@ Seluruh proses komputasi (EDA, Modeling, dan Optimasi) dikerjakan menggunakan Py
 Pendekatan Data-Driven dan Metaheuristik yang diterapkan dalam proyek ini membuktikan bahwa transformasi digital dalam pengelolaan proses fermentasi bioetanol sangat memungkinkan dan memberikan manfaat nyata bagi industri bioenergi.
 ### Correlation Matrix Variabel Proses
 ![Correlation Matrix](download.png)
-### Perbandingan Akurasi Model Machine Learning
-![Perbandingan Akurasi Model](download(1).png)
+
